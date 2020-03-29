@@ -3,6 +3,10 @@
 SDM 2020 Tutorial
 Kevin S. Xu (University of Toledo) and James R. Foulds (University of Maryland, Baltimore County)
 
+## Updates
+
+3/29/2020: This tutorial will no longer be offered since SDM 2020 has been canceled! See https://sinews.siam.org/Details-Page/covid19 for more information regarding the status of SIAM conferences for 2020. We hope to offer this tutorial at a later time.
+
 ## Brief Description
 
 Traditional data mining algorithms for networks typically assume that the network is in the form of a single static graph, which either represents a single time snapshot or an aggregate view over time. However, this is often an oversimplification of the underlying network phenomenon. For example, in the age of social media, many of our social interactions are recorded digitally with timestamps, and the *temporal dynamics* can yield as much insight as the graph structure. Thus, it has become increasingly clear that network mining algorithms need to go beyond a single graph to include time information. Generative probabilistic models are well-suited for such analyzing such rich network data, as they provide a natural framework for reasoning collectively over structured data.
