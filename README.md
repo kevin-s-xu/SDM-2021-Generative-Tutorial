@@ -1,9 +1,11 @@
 # Mining Dynamic Networks with Generative Models
 
-SDM 2020 Tutorial
+[SIAM International Conference on Data Mining (SDM) 2021](https://www.siam.org/conferences/cm/conference/sdm21) Tutorial
 Kevin S. Xu (University of Toledo) and James R. Foulds (University of Maryland, Baltimore County)
 
 ## Updates
+
+1/8/2021: This tutorial has been re-scheduled for [SDM 2021](https://www.siam.org/conferences/cm/conference/sdm21), which is being held virtually.
 
 3/29/2020: This tutorial will no longer be offered since SDM 2020 has been canceled! See https://sinews.siam.org/Details-Page/covid19 for more information regarding the status of SIAM conferences for 2020. We hope to offer this tutorial at a later time.
 
