@@ -7,7 +7,7 @@ Kevin S. Xu (University of Toledo) and James R. Foulds (University of Maryland, 
 
 1/8/2021: This tutorial has been re-scheduled for [SDM 2021](https://www.siam.org/conferences/cm/conference/sdm21), which is being held virtually.
 
-3/29/2020: This tutorial will no longer be offered since SDM 2020 has been canceled! See https://sinews.siam.org/Details-Page/covid19 for more information regarding the status of SIAM conferences for 2020. We hope to offer this tutorial at a later time.
+~~3/29/2020: This tutorial will no longer be offered at SDM 2020 since it has been canceled! See https://sinews.siam.org/Details-Page/covid19 for more information regarding the status of SIAM conferences for 2020. We hope to offer this tutorial at a later time.~~
 
 ## Brief Description
 
