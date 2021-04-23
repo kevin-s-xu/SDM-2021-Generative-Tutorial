@@ -5,6 +5,8 @@ Kevin S. Xu (University of Toledo) and James R. Foulds (University of Maryland, 
 
 ## Updates
 
+4/23/2021: The tutorial is scheduled for Saturday, May 1st from 3:30-5:30pm Eastern time. We will post the tutorial materials and additional information over the next few days.
+
 1/21/2021: Added more detailed 2-page description PDF.
 
 1/8/2021: This tutorial has been re-scheduled for [SDM 2021](https://www.siam.org/conferences/cm/conference/sdm21), which is being held virtually.
