@@ -5,6 +5,8 @@ Kevin S. Xu (University of Toledo) and James R. Foulds (University of Maryland, 
 
 ## Updates
 
+5/1/2021: Added tutorial slides.
+
 4/23/2021: The tutorial is scheduled for Saturday, May 1st from 3:30-5:30pm Eastern time. We will post the tutorial materials and additional information over the next few days.
 
 1/21/2021: Added more detailed 2-page description PDF.
@@ -20,6 +22,10 @@ Traditional data mining algorithms for networks typically assume that the networ
 This tutorial presents recent advances in generative models for dynamic networks, focusing on models that encode network phenomena with latent (i.e. hidden) attributes, which are subsequently recovered from data. We consider dynamic networks in two different forms: *discrete-time networks*, where the network evolves through a set of snapshots observed at discrete time steps, and *continuous-time networks*, where the network is observed through relational events at arbitrary, irregularly-spaced timestamps. Our focus will be on continuous-time networks, which differ most from static networks due to the absence of graph snapshots. For such networks, model-based analysis using point process models can reveal significant insights about the frequency, burstiness, and ordering of edges in networks that are not possible to uncover using snapshot-based analyses.
 
 [More detailed description (PDF)](SDM_2021_Tutorial_Description.pdf)
+
+## Tutorial Materials
+
+[Tutorial slides (PDF)](SDM_2021_Tutorial_Slides.pdf)
 
 ## Presenters
 
