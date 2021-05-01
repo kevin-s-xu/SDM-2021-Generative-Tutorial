@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+utils/__pycache__/
+data/facebook-wall.txt
+data/facebook-wall-filtered.txt
