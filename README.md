@@ -7,7 +7,7 @@ Saturday, May 1st 3:30-5:30pm Eastern time: happening virtually on [vFairs](http
 
 ## Updates
 
-5/1/2021: Added [tutorial slides](SDM_2021_Tutorial_Slides.pdf).
+5/1/2021: Added [tutorial slides](SDM_2021_Tutorial_Slides.pdf) and code for demos.
 
 4/23/2021: The tutorial is scheduled for Saturday, May 1st from 3:30-5:30pm Eastern time. We will post the tutorial materials and additional information over the next few days.
 
@@ -28,6 +28,15 @@ This tutorial presents recent advances in generative models for dynamic networks
 ## Tutorial Materials
 
 [Tutorial slides (PDF)](SDM_2021_Tutorial_Slides.pdf)
+
+### Demos
+
+There will be two demos in this tutorial:
+
+- Fitting a stochastic block model to a static Facebook wall post network: [facebook_sbm_demo.ipynb](facebook_sbm_demo.ipynb)
+- Fitting the Community Hawkes Independent Pairs (CHIP) model to a timestamped Facebook wall post network: [facebook_chip_demo.ipynb](facebook_chip_demo.ipynb)
+
+These demos are in the form of Jupyter notebooks. To run these demos, first clone this repository as well as the [CHIP repository](https://github.com/IdeasLabUT/CHIP-Network-Model). We suggest installing a Python 3.x version of [Anaconda](https://www.anaconda.com/products/individual), which includes all the necessary Python packages used, as well as Jupyter notebook. You will also need to download the Facebook wall post data: see instructions in [data_download_instructions.md](data/data_download_instructions.md)
 
 ## Presenters
 
