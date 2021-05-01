@@ -3,13 +3,15 @@
 [SIAM International Conference on Data Mining (SDM) 2021](https://www.siam.org/conferences/cm/conference/sdm21) Tutorial<br />
 Kevin S. Xu (University of Toledo) and James R. Foulds (University of Maryland, Baltimore County)
 
+Saturday, May 1st 3:30-5:30pm Eastern time: happening virtually on [vFairs](https://siamsdm21.vfairs.com/)
+
 ## Updates
 
-5/1/2021: Added tutorial slides.
+5/1/2021: Added [tutorial slides](SDM_2021_Tutorial_Slides.pdf).
 
 4/23/2021: The tutorial is scheduled for Saturday, May 1st from 3:30-5:30pm Eastern time. We will post the tutorial materials and additional information over the next few days.
 
-1/21/2021: Added more detailed 2-page description PDF.
+1/21/2021: Added more detailed [2-page description PDF](SDM_2021_Tutorial_Description.pdf).
 
 1/8/2021: This tutorial has been re-scheduled for [SDM 2021](https://www.siam.org/conferences/cm/conference/sdm21), which is being held virtually.
 
