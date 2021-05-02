@@ -36,10 +36,16 @@ There will be two demos in this tutorial:
 - Fitting a stochastic block model to a static Facebook wall post network: [facebook_sbm_demo.ipynb](facebook_sbm_demo.ipynb)
 - Fitting the Community Hawkes Independent Pairs (CHIP) model to a timestamped Facebook wall post network: [facebook_chip_demo.ipynb](facebook_chip_demo.ipynb)
 
-These demos are in the form of Jupyter notebooks. To run these demos, first clone this repository as well as the [CHIP repository](https://github.com/IdeasLabUT/CHIP-Network-Model). We suggest installing a Python 3.x version of [Anaconda](https://www.anaconda.com/products/individual), which includes all the necessary Python packages used, as well as Jupyter notebook. You will also need to download the Facebook wall post data: see instructions in [data_download_instructions.md](data/data_download_instructions.md)
+These demos are in the form of Jupyter notebooks. To run these demos, first clone this repository. Then clone the [CHIP repository](https://github.com/IdeasLabUT/CHIP-Network-Model) into a folder called CHIP-Network-Model with the same parent folder as this one.
+
+We suggest installing a Python 3.x version of [Anaconda](https://www.anaconda.com/products/individual), which includes all the necessary Python packages used, as well as Jupyter notebook. You will also need to download the Facebook wall post data: see instructions in [data_download_instructions.md](data/data_download_instructions.md)
 
 ## Presenters
 
 Kevin S. Xu (University of Toledo): [Personal website](http://kevinsxu.com)
 
 James R. Foulds (Jimmy) (University of Maryland, Baltimore County): [Personal website](http://jfoulds.informationsystems.umbc.edu)
+
+## Acknowledgments
+
+We thank Makan Arastuie for his contributions to the tutorial materials.
